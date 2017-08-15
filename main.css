@@ -1,0 +1,56 @@
+body {
+  background-color: #333333;
+  color: #a6a6a6;
+}
+#avatar {
+  max-width: 80px;
+  max-height: 80px;
+  box-shadow: 2px 2px 5px black;
+}
+#ico {
+  max-width: 25px;
+  max-height: 25px;
+  margin: 6px;
+}
+.btn {
+  margin: auto;
+  box-shadow: 2px 2px 2px black;;
+}
+.error-box {
+  max-width: 250px;
+  height: 30px;
+  border: 1px solid #ff8080;
+  margin: 30px auto;
+  background-color: #ffcccc;
+  box-shadow: 3px 3px 3px black;
+  border-radius: 8px;
+}
+.search {
+  max-width: 400px;
+  min-width: 100px;
+  margin: auto;
+  box-shadow: 2px 2px 2px black;
+}
+.results {
+  color: #000000 !important;
+  margin: auto;
+  min-height: 50px;
+  max-width: 600px;
+  min-width: 150px;
+  background-color: #b3b3b3;
+  border-radius: 15px;
+  box-shadow: 4px 4px 3px black;
+  padding: 30px;
+}
+#username {
+  font-style: italic;
+}
+h3 {
+  margin: auto;
+}
+.auth {
+  color: #4d4d4d;
+  }
+#repo-name {
+  font-size: 20px;
+}
